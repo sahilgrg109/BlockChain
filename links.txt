@@ -3,3 +3,4 @@ https://ethereum.stackexchange.com/questions/13167/are-there-well-solved-and-sim
 
 https://fabric-sdk-node.github.io/release-1.4/index.html
   sahil
+https://media.datacumulus.com/aws-dva/AWS%20Certified%20Developer%20Slides%203.2.pdf
