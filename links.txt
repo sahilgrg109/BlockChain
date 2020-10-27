@@ -4,3 +4,21 @@ https://ethereum.stackexchange.com/questions/13167/are-there-well-solved-and-sim
 https://fabric-sdk-node.github.io/release-1.4/index.html
   sahil
 https://media.datacumulus.com/aws-dva/AWS%20Certified%20Developer%20Slides%203.2.pdf
+
+Channel Partner Incentives :- This project was developed for TCS Hi-Tech Unit to be used for it's clients to provide the incentives to all the partners across different channels.
+Features:- 
+Pulls the sales data from the Clients ERP portal.
+Client sales unit will update the incentives or schemes in the portal.
+Incentives are provided based on the total sales recorded within the incentive or scheme period
+Partners can login into the portal and can claim incentives and marketing expenses.
+Incentives will approved based upon the rules added in database by the sales unit.
+
+Archtitecture : MicroServices.
+Technology: Java, Angular
+
+Cloud foundation Design: This project was offering from TCS CBO-Cloud unit to its client who wants  to move to cloud from on-premise server.
+Features:-
+Need inputs for a set of questions that are related to customer requirement and current architecture used by the customer.
+Application is having stored designs for a large no of use cases.
+Application will provide the right design to be used according to answer given using stored procedures.
+Application uses the full text search to  find the most suitable design in the scenarios where no optimal design found using the stored procedures.
